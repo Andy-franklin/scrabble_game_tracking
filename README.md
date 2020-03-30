@@ -16,6 +16,8 @@ build the styles/javascript
 npm run dev
 ```
 
+set your .env file to have the database connection
+
 create the database and then run the migrations
 
 (create the database manually)
